@@ -32,7 +32,7 @@ _> Note: 2016 and 2018 are partial years, so annual totals should not be compare
 - **Rio de Janeiro (RJ)** ranked second with **12,852 orders** and approximately **$1.82 million** in revenue.
 - **Minas Gerais (MG)** ranked third with **11,635 orders** and approximately **$1.59 million** in revenue.
 - The top three states — **SP, RJ, and MG** — accounted for approximately **67% of all orders** and **63% of total product revenue**, showing a strong geographic concentration in Olist's customer base.
-- 
+  
 ## Sales & Product Analysis
 
 ### Business Question and Key Findings
@@ -61,7 +61,6 @@ _> Note: 2016 and 2018 are partial years, so annual totals should not be compare
 ## Seller Analysis
 
 ### Business Question and Key Findings
-## Seller Performance
 
 ### 1. Which sellers generated the most revenue, and how do they rank?
 - Sellers were ranked from highest to lowest total product revenue using the `RANK()` window function.
