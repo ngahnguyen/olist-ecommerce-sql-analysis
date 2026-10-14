@@ -36,7 +36,7 @@ _> Note: 2016 and 2018 are partial years, so annual totals should not be compare
   
 ## Sales & Product Analysis
 
-### Business Question and Key Findings
+### Business Questions and Key Findings
 ### 1. How did monthly product revenue change over time?
 - **November 2017** generated the highest monthly product revenue at approximately **1.01M**.
 - Several months in 2018 also approached **1M**, showing stronger revenue performance in the later part of the dataset.
