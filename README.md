@@ -12,7 +12,7 @@ This project uses the Olist Brazilian E-Commerce Public Dataset available on Kag
 - window functions
 ## Order and Delivery Performance
 
-### Business Question and Key Findings
+### Business Questions and Key Findings
 How did order volume and delivery performance change over time? 
 
 - The dataset contains **99,441 orders** from **September 2016 through October 2018**.
@@ -26,8 +26,7 @@ _> Note: 2016 and 2018 are partial years, so annual totals should not be compare
 ## Customer & Geographic Analysis
 
 ### Business Questions and Key Findings
-### 1. Which customer states placed the most orders?
-### 2. Which customer states generated the most revenue?
+### 1. Which customer states placed the most orders? Which customer states generated the most revenue?
 
 - **São Paulo (SP)** was the largest customer market, with **41,746 orders**, representing about **42% of all orders** in the dataset.
 - SP also generated the highest product revenue at approximately **$5.20 million**, accounting for about **38% of total product revenue**.
