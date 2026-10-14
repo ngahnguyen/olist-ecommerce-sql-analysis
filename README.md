@@ -13,7 +13,7 @@ This project uses the Olist Brazilian E-Commerce Public Dataset available on Kag
 ## Order and Delivery Performance
 
 ### Business Questions and Key Findings
-How did order volume and delivery performance change over time? 
+### 1. How did order volume and delivery performance change over time? 
 
 - The dataset contains **99,441 orders** from **September 2016 through October 2018**.
 - **97.02%** of all orders were marked as delivered.
@@ -46,7 +46,7 @@ _> Note: 2016 and 2018 are partial years, so annual totals should not be compare
 - It was followed by **Watches & Gifts** and **Bed, Bath & Table**.
 
 ### 3. How did product category performance change over time?
-- - Revenue increased substantially across several major product categories between 2017 and 2018.
+- Revenue increased substantially across several major product categories between 2017 and 2018.
 - **Health & Beauty (`beleza_saude`) became the highest-revenue category in 2018**, increasing by approximately **60%** from 2017.
 - Watches & Gifts (`relogios_presentes`) also grew strongly, increasing by approximately **44%**.
 - Bed, Bath & Table (`cama_mesa_banho`) remained one of the strongest categories, although its growth was more modest at approximately **8%**.
@@ -64,7 +64,6 @@ _> Note: 2016 and 2018 are partial years, so annual totals should not be compare
 ### Business Question and Key Findings
 
 ### 1. Which sellers generated the most revenue, and how do they rank?
-- Sellers were ranked from highest to lowest total product revenue using the `RANK()` window function.
 - The top-ranked seller generated approximately **229.5K** in revenue, followed by sellers generating **222.8K** and **200.5K**.
 - Revenue was concentrated among a relatively small group of top-performing sellers.
 
